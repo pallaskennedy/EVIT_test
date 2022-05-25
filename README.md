@@ -1,2 +1,2 @@
-# Coursera_test
-Coursera Test Repository
+# EVIT_test
+EVIT Test Repository
